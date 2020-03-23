@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod S Permutasyon Hesapla\Kod S Permutasyon Hesapla\bin\Debug\Kod S Permutasyon Hesapla.exe
+C:\Users\mrt_b\Desktop\Kod S Permutasyon Hesapla\Kod S Permutasyon Hesapla\bin\Debug\Kod S Permutasyon Hesapla.pdb
+C:\Users\mrt_b\Desktop\Kod S Permutasyon Hesapla\Kod S Permutasyon Hesapla\obj\x86\Debug\Kod S Permutasyon Hesapla.exe
+C:\Users\mrt_b\Desktop\Kod S Permutasyon Hesapla\Kod S Permutasyon Hesapla\obj\x86\Debug\Kod S Permutasyon Hesapla.pdb
